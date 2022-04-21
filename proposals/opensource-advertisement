@@ -1,0 +1,48 @@
+<!--
+
+Please note that by submitting a PR with a new proposal, you agree to release this proposal text under the Creative Commons Zero v1.0 Universal license. See https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/LICENSE.
+
+If you'd like to submit a proposal yourself, you have two options:
+
+1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then [make a pull request](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) to this repository.
+2. If you'd rather just use a form, [fill out this form][form]. Unless you tell us otherwise, we will copy over your proposal to this GitHub repository.
+
+Please remove this header comment once you submit a proposal (so the markdown preview shows up properly).
+
+-->
+
+### Title
+
+Advertising opensource projects with other opensource projects for better recognization.
+
+### Short description
+
+Many good opensource projects are unknown to many people/community. Due to the less uses/motivation and less support, author loose interest to maintain them.
+Hence, my proposal is to create Stackoverflow community ads like system for Github.
+
+### Author(s)
+
+[Amit Kumar Gupta](https://github.com/amitguptagwl/)
+
+### Proposal body
+
+I started a project [ads](https://github.com/NaturalIntelligence/ads/) to give a chance to the good open source projects based on the voting every month. Anyone who feels their project is good can submit an entry in Discussions section. Other people can vote. Project with highest vote would be selected if it follows community guidelines. Maintainer will create GIF/SVG of selected project. The name of Gif/SVG will never change so all the projects which are offering to publish the ad need not to do any change.
+In such a way, if anyone visit publisher open source project, he'll see the ad of some new open source projects. This project can run without funding but with awareness and good community support.
+
+### Due diligence
+
+<!-- Please answer the following due diligence questions; it's okay to answer "N/A" if you don't know yet. -->
+
+1. **What's your theory of change -- what impact do you expect this project to have? What's its goal?** Give a fair chance to small and new but good open source projects for a recognition.
+2. **What related work has already been done in this area?** I hav already created a repo [ads](https://github.com/NaturalIntelligence/ads/) for the concepts. But it needs awareness and recognition.
+3. **How is this proposal innovative -- what distinguishes it from other related work?** It doesn't need funding but people supports. It can use Github ecosystem to run for long. 
+4. **Who is your doer -- who will execute the proposed work?** We need publisher. I'm already offering all the projects I'm maintaining to publish ads. And it needs people who want to advertise their projects. 
+5. **How might this work be sustained long-term after an initial seed grant?** This project doesn't need funding, separate servers etc. Only Github ecosystem and community support & awareness. So it is long sustainable.
+
+### Resources needed
+
+Advisors I believe.
+
+### Other links and resources
+
+<!-- Add any other links, images, or resources that are relevant to the proposal -->
